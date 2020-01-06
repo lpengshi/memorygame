@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Team5MemoryGame</string>
+    <string name="downloadProgress">Downloading 0 of 20 images ...</string>
+    <string name="fetch">Fetch</string>
+</resources>
